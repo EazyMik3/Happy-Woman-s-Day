@@ -1,4 +1,4 @@
-const nameGirl = 'Em';
+const nameGirl = 'Van Khanh Le';
 const giftUrl = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
 const eventName = 'Chúc Mừng Ngày 8-3';
 const titleCard = 'To Khanh Van Le';
