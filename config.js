@@ -1,5 +1,5 @@
 const nameGirl = 'Em';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
 const eventName = 'Chúc Mừng Ngày 8-3';
 const titleCard = 'To Khanh Van Le';
 const contentCard = 'Chúc con bé bớt khịa thằng anh ế lâu năm lại, khịa nữa mai mốt ăn đám cưới không kịp đâu';
